@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A6BD-3056
+
+ Directory of C:\Users\Manish\Desktop\ManishGIT
+
+12/11/2019  02:21 AM    <DIR>          .
+12/11/2019  02:21 AM    <DIR>          ..
+12/11/2019  02:21 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  64,993,591,296 bytes free
